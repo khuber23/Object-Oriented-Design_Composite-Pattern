@@ -1,0 +1,14 @@
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\8.4 Composite\8.4 Composite LastName\CompositePattern\bin\Debug\CompositePattern.exe.config
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\8.4 Composite\8.4 Composite LastName\CompositePattern\bin\Debug\CompositePattern.exe
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\8.4 Composite\8.4 Composite LastName\CompositePattern\bin\Debug\CompositePattern.pdb
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\8.4 Composite\8.4 Composite LastName\CompositePattern\obj\Debug\CompositePattern.csproj.CoreCompileInputs.cache
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\8.4 Composite\8.4 Composite LastName\CompositePattern\obj\Debug\CompositePattern.exe
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\8.4 Composite\8.4 Composite LastName\CompositePattern\obj\Debug\CompositePattern.pdb
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.4 Composite Huber\CompositePattern\bin\Debug\CompositePattern.exe.config
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.4 Composite Huber\CompositePattern\bin\Debug\CompositePattern.exe
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.4 Composite Huber\CompositePattern\bin\Debug\CompositePattern.pdb
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.4 Composite Huber\CompositePattern\obj\Debug\CompositePattern.csproj.AssemblyReference.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.4 Composite Huber\CompositePattern\obj\Debug\CompositePattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.4 Composite Huber\CompositePattern\obj\Debug\CompositePattern.csproj.CoreCompileInputs.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.4 Composite Huber\CompositePattern\obj\Debug\CompositePattern.exe
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.4 Composite Huber\CompositePattern\obj\Debug\CompositePattern.pdb
